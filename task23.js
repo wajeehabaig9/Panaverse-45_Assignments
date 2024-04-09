@@ -1,0 +1,22 @@
+var number = 10; //our number 10//
+console.log("Is number == 10? I predict True.");
+console.log(number == 10);
+console.log("\nIs number > 5? I predict True.");
+console.log(number > 5);
+console.log("\nIs number < 5? I predict False.");
+console.log(number < 5);
+var person = 'John';
+console.log("\nIs name == 'John'? I predict True.");
+console.log(person == 'John');
+console.log("\nIs name != 'Alice'? I predict True.");
+console.log(person != 'Alice');
+console.log("\nIs name === 'john'? I predict False.");
+console.log(person === 'john');
+var age = 25;
+console.log("\nIs age >= 18? I predict True.");
+console.log(age >= 18);
+console.log("\nIs age < 21? I predict False.");
+console.log(age < 21);
+var isAdmin = true;
+console.log("\nIs isAdmin == true? I predict True.");
+console.log(isAdmin == true);
